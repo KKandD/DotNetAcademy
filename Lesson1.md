@@ -15,14 +15,15 @@
 4. Visual Studio:
 
 5. int, string, double, float, decimal, bool
+    typ wartościowy, typ referencyjny
 
 6. List, Array, Dictionary
 
-7. if, else if, else, while
+7. if, else if, else, while, for, for each
 
 8. !, &&, ||, ==, !=, is, is not
 
-9. Class, static, public, private, sealed, namespace
+9. Metody, Class, Interface, static, public, private, sealed, namespace
 
 
 9. Zadanie domowe:
